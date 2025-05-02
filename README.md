@@ -88,22 +88,6 @@
   
 </div>
 
-<!-- CSS Animations -->
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
-  }
-  @keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-  }
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
-
 <!-- View Counter with Glow -->
 <div align="center" style="margin-top: 40px;">
   <img src="https://komarev.com/ghpvc/?username=Diannnnnnnnn&label=Profile+Views&color=FF79C6&style=for-the-badge" alt="Profile Views" style="animation: pulse 2s infinite;" />
