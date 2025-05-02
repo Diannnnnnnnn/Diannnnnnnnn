@@ -51,12 +51,16 @@
 ## **🎨 Featured Projects**
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  
-  <!-- Project Card with Hover Effects -->
+
   <a href="https://github.com/Diannnnnnnnn/Porto_next.js">
-    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1746203476/Screenshot_2025-05-02_233040_ytbbuo.png" alt="Next.js Portfolio" style="border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
+    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1745895828/samples/cup-on-a-table.jpg" alt="Next.js Portfolio" style="border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
   </a>
-  
+</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <a href="https://github.com/Diannnnnnnnn/Porto_next.js">
+    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1745895819/samples/landscapes/architecture-signs.jpg" alt="Next.js Portfolio" style="border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
+  </a>
 </div>
 
 <!-- View Counter with Glow -->
@@ -68,6 +72,16 @@
 <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none;">
   <div style="position: absolute; width: 2px; height: 2px; background: white; border-radius: 50%;" class="star"></div>
   <!-- Add more stars with different positions -->
+</div>
+
+## **📫 My Portofolio**
+
+<div align="center">
+  
+  <!-- Social Icons with Hover Effects -->
+  <a href="https://dianmanurung.netlify.app/">
+    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1746203476/Screenshot_2025-05-02_233040_ytbbuo.png" alt="Twitter" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
 </div>
 
 ## **📫 How to Reach Me**
