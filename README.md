@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Dian!;Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&random=true&width=600&lines=Hello%2C+I'm+Dian+Manurung;I'm+Ready+For+Job!" alt="Typing Animation" />
 </div>
-
-<!-- Rainbow Divider -->
-<img src="https://github.com/Diannnnnnnnn/Diannnnnnnnn/blob/main/assets/rainbow-divider.gif" width="100%"/>
 
 ## **🚀 About Me**
 
@@ -52,10 +49,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Diannnnnnnnn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="animation: float 3s ease-in-out infinite;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diannnnnnnnn&layout=compact&theme=radical" alt="Top Languages" style="animation: float 3s ease-in-out infinite 1s;" />
   </div>
-  
-  <!-- Contribution Graph with Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Diannnnnnnnn/Diannnnnnnnn/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Contribution Graph" width="100%" />
-  
 </div>
 
 ## **🌱 Currently Learning**
