@@ -48,35 +48,6 @@
   
 </div>
 
-## **📫 How to Reach Me**
-
-<div align="center">
-  
-  <!-- Social Icons with Hover Effects -->
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" alt="Twitter" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  
-</div>
-
-## **⚡ Fun Fact**
-
-<div align="center">
-  
-  <!-- Rotating Emoji -->
-  <p style="font-size: 24px;">
-    <span style="display: inline-block; animation: spin 4s linear infinite;">🎮</span> 
-    I'm a competitive esports player in my free time!
-  </p>
-  
-</div>
-
 ## **🎨 Featured Projects**
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -99,3 +70,19 @@
   <!-- Add more stars with different positions -->
 </div>
 
+## **📫 How to Reach Me**
+
+<div align="center">
+  
+  <!-- Social Icons with Hover Effects -->
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black" alt="Twitter" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black" alt="Gmail" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  
+</div>
