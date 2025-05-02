@@ -36,20 +36,6 @@
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black" alt="VS Code" />
   
 </div>
-<!-- 
-## **📊 GitHub Stats**
-
-<div align="center">
-  
-  <!-- Streak Stats with Glow Effect -->
-  <img src="https://streak-stats.demolab.com?user=Diannnnnnnnn&theme=radical&border_radius=10&mode=weekly&fire=FF79C6&ring=8BE9FD&currStreakNum=FFFFFF&sideNums=8BE9FD&currStreakLabel=FF79C6" alt="GitHub Streak Stats" />
-  
-  <!-- Stats with Floating Animation -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Diannnnnnnnn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="animation: float 3s ease-in-out infinite;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diannnnnnnnn&layout=compact&theme=radical" alt="Top Languages" style="animation: float 3s ease-in-out infinite 1s;" />
-  </div>
-</div> -->
 
 ## **🌱 Currently Learning**
 
@@ -129,29 +115,3 @@
   <!-- Add more stars with different positions -->
 </div>
 
-<script>
-  // Simple star animation script
-  document.addEventListener('DOMContentLoaded', function() {
-    const container = document.querySelector('.star').parentElement;
-    for (let i = 0; i < 50; i++) {
-      const star = document.createElement('div');
-      star.style.position = 'absolute';
-      star.style.width = Math.random() * 3 + 'px';
-      star.style.height = star.style.width;
-      star.style.background = 'white';
-      star.style.borderRadius = '50%';
-      star.style.left = Math.random() * 100 + '%';
-      star.style.top = Math.random() * 100 + '%';
-      star.style.opacity = Math.random();
-      star.style.animation = `twinkle ${Math.random() * 5 + 3}s infinite ${Math.random() * 5}s`;
-      container.appendChild(star);
-    }
-  });
-</script>
-
-<style>
-  @keyframes twinkle {
-    0%, 100% { opacity: 0.2; }
-    50% { opacity: 1; }
-  }
-</style>
