@@ -102,12 +102,9 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   
-  <!-- Project Cards with Hover Effects -->
-  <a href="https://github.com/Diannnnnnnnn/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diannnnnnnnn&repo=project1&theme=radical" alt="Project 1" style="border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
-  </a>
-  <a href="https://github.com/Diannnnnnnnn/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diannnnnnnnn&repo=project2&theme=radical" alt="Project 2" style="border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(255, 121, 198, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
+  <!-- Project Card with Hover Effects -->
+  <a href="https://github.com/Diannnnnnnnn/Porto_next.js">
+    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1746203476/Screenshot_2025-05-02_233040_ytbbuo.png" alt="Next.js Portfolio" style="border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
   </a>
   
 </div>
