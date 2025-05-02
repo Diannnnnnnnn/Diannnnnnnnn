@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black" alt="VS Code" />
   
 </div>
-
+<!-- 
 ## **📊 GitHub Stats**
 
 <div align="center">
@@ -49,7 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Diannnnnnnnn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="animation: float 3s ease-in-out infinite;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diannnnnnnnn&layout=compact&theme=radical" alt="Top Languages" style="animation: float 3s ease-in-out infinite 1s;" />
   </div>
-</div>
+</div> -->
 
 ## **🌱 Currently Learning**
 
