@@ -51,15 +51,13 @@
 ## **🎨 Featured Projects**
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
   <a href="https://github.com/Diannnnnnnnn/Porto_next.js">
-    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1745895828/samples/cup-on-a-table.jpg" alt="Next.js Portfolio" style="border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
+    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1745895828/samples/cup-on-a-table.jpg" alt="Next.js Portfolio" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
   </a>
 </div>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
   <a href="https://github.com/Diannnnnnnnn/Porto_next.js">
-    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1745895819/samples/landscapes/architecture-signs.jpg" alt="Next.js Portfolio" style="border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
+    <img src="https://res.cloudinary.com/dzhvgixdz/image/upload/v1745895819/samples/landscapes/architecture-signs.jpg" alt="Next.js Portfolio" style="width: 300px; height: 200px; object-fit: cover; border-radius: 10px; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 10px 20px rgba(139, 233, 253, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
   </a>
 </div>
 
