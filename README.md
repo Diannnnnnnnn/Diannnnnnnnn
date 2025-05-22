@@ -87,18 +87,6 @@
   
 </div>
 
-<div align="center">
-  
-  <!-- Streak Stats with Glow Effect -->
-  <img src="https://streak-stats.demolab.com?user=Diannnnnnnnn&theme=radical&border_radius=10&mode=weekly&fire=FF79C6&ring=8BE9FD&currStreakNum=FFFFFF&sideNums=8BE9FD&currStreakLabel=FF79C6" alt="GitHub Streak Stats" />
-  
-  <!-- Stats with Floating Animation -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Diannnnnnnnn&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" style="animation: float 3s ease-in-out infinite;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diannnnnnnnn&layout=compact&theme=radical" alt="Top Languages" style="animation: float 3s ease-in-out infinite 1s;" />
-  </div>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diannnnnnnnn/Diannnnnnnnn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diannnnnnnnn/Diannnnnnnnn/output/pacman-contribution-graph.svg">
